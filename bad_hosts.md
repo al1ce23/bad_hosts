@@ -50,26 +50,12 @@
 - 198.144.159.105
 - 198.144.159.110
 - 198.144.159.158
+- 212.70.149.50
 
 ## embedded webscripts
 
 - 209.145.52.137 (esfstream.com)
 - 51.15.15.73 (fastred.biz)
-
-# hosts doing bad things
-
-## mail spoof/phish
-
-- 109.248.150.197 (exim 4.94.2) used ng0.internetbusinessbureau.net
-
-## portscan
-
-- 185.156.73.60
-- 92.63.179.9
-- 185.156.74.30
-- 185.156.74.27
-- 185.156.74.19
-- 185.156.74.26
 
 ## embedded webscripts
 
