@@ -1,7 +1,7 @@
 # hosts doing bad things
-## mail spoof/phish
+# mail spoof/phish
 109.248.150.197
-## portscan
+# portscan
 24.153.184.114
 31.43.191.143
 45.143.203.6
@@ -54,7 +54,7 @@
 198.144.159.110
 198.144.159.158
 212.70.149.50
-## embedded webscripts
+# embedded webscripts
 209.145.52.137
 51.15.15.73
 185.177.93.164
